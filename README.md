@@ -28,7 +28,8 @@
 <p align="center">
     <a href=""><b>DEMO</b></a>
 </p>
-## Está versão disponivel é a beta, Versão full comercializada
+A versão disponivel do sistema é a beta, Versão full reiscrita e comercializada.
+
 <p align="center">
 Sistema para gerenciar escolas ou instituições de ensino fazendo o controle de matrículas, professores, alunos, matérias, etc. O foco do sistema é apresentar uma solução mais simplista possível para o usuário, fazendo com que a curva de aprendizado seja bastante suave.    
 </p>
