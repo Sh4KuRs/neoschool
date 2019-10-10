@@ -28,12 +28,12 @@
 <p align="center">
     <a href=""><b>DEMO</b></a>
 </p>
-
+## Está versão disponivel é a beta, Versão full comercializada
 <p align="center">
 Sistema para gerenciar escolas ou instituições de ensino fazendo o controle de matrículas, professores, alunos, matérias, etc. O foco do sistema é apresentar uma solução mais simplista possível para o usuário, fazendo com que a curva de aprendizado seja bastante suave.    
 </p>
 
-## Acesse o Sistema - Caso encontre erros no sistema relate pois está passando por alterações - 08-10-2019
+## Acesse o Sistema - Caso encontre erros no sistema relate pois está passando por alterações - 07-06-2019
 User : administrador
 Key : 123
 <p align="center">
