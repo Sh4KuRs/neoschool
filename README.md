@@ -33,7 +33,7 @@
 Sistema para gerenciar escolas ou instituições de ensino fazendo o controle de matrículas, professores, alunos, matérias, etc. O foco do sistema é apresentar uma solução mais simplista possível para o usuário, fazendo com que a curva de aprendizado seja bastante suave.    
 </p>
 
-## Acesse o Sistema
+## Acesse o Sistema - Caso encontre erros no sistema relate pois está passando por alterações - 08-10-2019
 User : administrador
 Key : 123
 <p align="center">
