@@ -26,11 +26,18 @@
 </p>
 
 <p align="center">
-    <a href="http://piu-manager.herokuapp.com"><b>DEMO</b></a>
+    <a href=""><b>DEMO</b></a>
 </p>
 
 <p align="center">
 Sistema para gerenciar escolas ou instituições de ensino fazendo o controle de matrículas, professores, alunos, matérias, etc. O foco do sistema é apresentar uma solução mais simplista possível para o usuário, fazendo com que a curva de aprendizado seja bastante suave.    
+</p>
+
+## Acesse o Sistema
+User : administrador
+Key : 123
+<p align="center">
+    <a href="http://phprojects-com.umbler.net/index.php"><b>www.neoescola.com.br</b></a>
 </p>
 
 ### Principais diretrizes
@@ -46,6 +53,7 @@ Sistema para gerenciar escolas ou instituições de ensino fazendo o controle de
     Requer MySQL >= 5.6
     
 ### Os testes unitários estão em desenvolvimento. Fique à vontade para realizar pull requests!
+
 
 
 
