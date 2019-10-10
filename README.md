@@ -34,7 +34,7 @@ A versão disponivel do sistema é a beta, Versão full reiscrita e comercializa
 Sistema para gerenciar escolas ou instituições de ensino fazendo o controle de matrículas, professores, alunos, matérias, etc. O foco do sistema é apresentar uma solução mais simplista possível para o usuário, fazendo com que a curva de aprendizado seja bastante suave.    
 </p>
 
-## Acesse o Sistema - Caso encontre erros no sistema relate pois está passando por alterações - 07-06-2019
+## Acesse o Sistema - Sistema passivel de encontrar muitos erros host Linux - 07-06-2019 
 User : administrador
 Key : 123
 <p align="center">
